@@ -15,3 +15,5 @@ R
 "tests/royalty-distribution.test.ts,e/7/e7225c58018802eab038cf8c0e1ab7709bd94aab
 K
 contracts/contribution.clar,9/3/938febb4e5ff5ad5b1f2e2f20c1e5f50eede2c11
+J
+tests/contribution.test.ts,4/e/4ed83575839684c0cb5940804087e72f34cc314a
