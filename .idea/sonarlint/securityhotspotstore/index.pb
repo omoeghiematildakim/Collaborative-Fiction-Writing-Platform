@@ -7,3 +7,5 @@ C
 tests/story.test.ts,9/c/9c552e49818f7817e98d85f45889cc137a6d780e
 E
 contracts/voting.clar,8/c/8c1cfbbcd734bf0b786519a1bc3ab7e69673a66c
+D
+tests/voting.test.ts,c/2/c235d1d4bf185d3f21b196f7f4ba601ce84b67b9
