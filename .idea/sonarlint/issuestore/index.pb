@@ -1,3 +1,19 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+D
+contracts/story.clar,4/d/4d7ad250652d9a53c1c4e65a8337a5add0b989e5
+C
+tests/story.test.ts,9/c/9c552e49818f7817e98d85f45889cc137a6d780e
+E
+contracts/voting.clar,8/c/8c1cfbbcd734bf0b786519a1bc3ab7e69673a66c
+D
+tests/voting.test.ts,c/2/c235d1d4bf185d3f21b196f7f4ba601ce84b67b9
+S
+#contracts/royalty-distribution.clar,9/9/995e55fe213df7ff94d708e34d0568520c645601
+R
+"tests/royalty-distribution.test.ts,e/7/e7225c58018802eab038cf8c0e1ab7709bd94aab
+K
+contracts/contribution.clar,9/3/938febb4e5ff5ad5b1f2e2f20c1e5f50eede2c11
+J
+tests/contribution.test.ts,4/e/4ed83575839684c0cb5940804087e72f34cc314a
