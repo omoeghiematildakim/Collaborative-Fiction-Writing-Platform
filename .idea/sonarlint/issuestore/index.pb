@@ -11,3 +11,7 @@ D
 tests/voting.test.ts,c/2/c235d1d4bf185d3f21b196f7f4ba601ce84b67b9
 S
 #contracts/royalty-distribution.clar,9/9/995e55fe213df7ff94d708e34d0568520c645601
+R
+"tests/royalty-distribution.test.ts,e/7/e7225c58018802eab038cf8c0e1ab7709bd94aab
+K
+contracts/contribution.clar,9/3/938febb4e5ff5ad5b1f2e2f20c1e5f50eede2c11
